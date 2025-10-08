@@ -4,36 +4,12 @@ layout: home
 nav_order: 1
 ---
 
-# CMPSC 5A – PrairieLearn Dev Team
+# Frontiers Documentation
 
-Welcome to the official documentation site for the **CMPSC 5A PrairieLearn Dev Team, Summer 2025**.
+Welcome to the official documentation site for the **Frontiers**.
 
-This site supports our work on creating and maintaining PrairieLearn content for UCSB’s CMPSC 5A course.
-
----
-
-## Purpose
-
-This documentation exists to:
-
-- Coordinate the development of PrairieLearn question banks.
-- Explain team workflows, review processes, and testing practices.
-- Provide guidelines for contributors and instructors.
+This site includes up-to-date tutorials to help professors, admins, and students make the most of [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/)!
 
 ---
 
-## Sections (coming soon)
-
-- Getting Started
-- Contributing Guidelines
-- Question Templates
-- Style Guide
-- Troubleshooting & Testing
-
----
-
-**Repository**: [ucsb-ds/pl-dev-team](https://github.com/ucsb-ds/pl-dev-team)
-
-## Resources
-
-* Guide to PL by E. Weisenberg (TA to Briana Morrison): <https://eweisenberg.github.io/prairielearn-guide/>
+**Repository**: [ucsb-cs156/frontiers](https://github.com/ucsb-cs156/frontiers)
