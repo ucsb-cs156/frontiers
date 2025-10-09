@@ -1,5 +1,5 @@
 ---
-parent: For instructors
+parent: For Instructors
 grand_parent: Tutorials
 layout: default
 title: Logging in
