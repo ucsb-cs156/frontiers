@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Tutorials
 title: "For Admins"
 nav_order: 1
 has_children: true
