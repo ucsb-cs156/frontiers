@@ -1,11 +1,10 @@
 ---
-layout: default
 parent: Tutorials
+layout: default
 title: "For Admins"
-nav_order: 1
+description:  "Tutorials for admins."
+category_prefix: "Admin Tutorial: "
 has_children: true
 ---
 
-# {{page.title}}
-
-This folder includes all the tutorials for admins!
+Admin tuts
