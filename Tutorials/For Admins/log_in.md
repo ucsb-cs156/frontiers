@@ -2,7 +2,7 @@
 parent: For Admins
 grand_parent: Tutorials
 layout: default
-title: Logging in
+title: "Logging In"
 indent: true
 description:  "Logging into [Frontiers](https://frontiers-qa.dokku-00.cs.ucsb.edu/) and checking permissions as an admin."
 ---
@@ -10,4 +10,3 @@ description:  "Logging into [Frontiers](https://frontiers-qa.dokku-00.cs.ucsb.ed
 ## Tutorial
 
 Add video tutorial
-    

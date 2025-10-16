@@ -2,8 +2,8 @@
 parent: For Instructors
 grand_parent: Tutorials
 layout: default
-title: Logging in
-description:  "Logging in and checking permissions as an instructors."
+title: "Logging In"
+description: "Logging on [Frontiers](https://frontiers-qa.dokku-00.cs.ucsb.edu/) and checking permissions as an instructor."
 ---
 
 ## Tutorial
