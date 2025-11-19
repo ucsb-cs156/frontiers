@@ -4,6 +4,7 @@ grand_parent: Tutorials
 layout: default
 title: "Adding Students"
 description: "Adding a student to your course manually or by Roster on [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/)."
+order: 3
 ---
 
 ## Tutorial

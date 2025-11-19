@@ -4,6 +4,7 @@ grand_parent: Tutorials
 layout: default
 title: "Creating a Course and linking a GitHub Organization"
 description: "Creating a course and linking or unlinking a GitHub Organization to it on [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/)."
+order: 2
 ---
 
 ## Tutorial

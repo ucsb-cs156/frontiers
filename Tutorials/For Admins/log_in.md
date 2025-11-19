@@ -5,6 +5,7 @@ layout: default
 title: "Logging In"
 indent: true
 description:  "Logging into [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/) and checking permissions as an admin."
+order: 1
 ---
 
 ## Tutorial

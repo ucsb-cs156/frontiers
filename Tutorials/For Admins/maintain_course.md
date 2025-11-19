@@ -5,6 +5,7 @@ layout: default
 title: "Manage a Course"
 indent: true
 description:  "Managing a course on [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/)."
+order: 2
 ---
 
 ## Tutorial

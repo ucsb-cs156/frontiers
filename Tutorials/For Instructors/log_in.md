@@ -4,6 +4,7 @@ grand_parent: Tutorials
 layout: default
 title: "Logging In"
 description: "Logging on [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/) and checking permissions as an instructor."
+order: 1
 ---
 
 ## Tutorial

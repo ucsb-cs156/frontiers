@@ -5,6 +5,7 @@ layout: default
 title: "Adding an Admin or Instructor"
 indent: true
 description:  "Adding another admin or instructor to [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/)."
+order: 3
 ---
 
 ## Tutorial

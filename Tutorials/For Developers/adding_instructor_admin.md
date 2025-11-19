@@ -4,6 +4,7 @@ grand_parent: Tutorials
 layout: default
 title: "Adding an Admin or Instructor"
 description:  "Adding another admin or instructor to [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/)."
+order: 2
 ---
 
 ## Tutorial

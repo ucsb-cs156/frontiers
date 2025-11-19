@@ -4,6 +4,7 @@ grand_parent: Tutorials
 layout: default
 title: "Adding Teams"
 description: "Adding teams by on [Frontiers](https://frontiers.dokku-00.cs.ucsb.edu/) and how to interpret errors."
+order: 4
 ---
 
 ## Tutorial
