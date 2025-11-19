@@ -8,4 +8,4 @@ permalink: /tutorials
 
 # {{page.title}}
 
-This folder includes all the tutorials for Frontiers!
+Find all the tutorials for Frontiers here!

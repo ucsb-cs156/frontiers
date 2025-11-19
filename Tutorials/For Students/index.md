@@ -6,5 +6,3 @@ description:  "Tutorials for students."
 category_prefix: "Student Tutorial: "
 has_children: true
 ---
-
-Student tuts

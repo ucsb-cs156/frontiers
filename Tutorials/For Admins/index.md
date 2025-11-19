@@ -6,5 +6,3 @@ description:  "Tutorials for admins."
 category_prefix: "Admin Tutorial: "
 has_children: true
 ---
-
-Admin tuts
