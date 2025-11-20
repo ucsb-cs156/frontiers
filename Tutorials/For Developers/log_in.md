@@ -24,4 +24,5 @@ Once you've signed in and connected your GitHub, you'll be taken to the homepage
 
 <img width="1125" height="600" alt="Screenshot 2025-11-19 at 6 19 55 PM" src="https://github.com/user-attachments/assets/51f077d7-3855-4112-9cf9-e4866eca1082" />
 
+
 **If you are on your personal deployment and do not have admin permissions, make sure your .env file is properly set up and that your email is included in ADMIN_EMAILS. If you haven’t set up a .env file yet, create one based on .env.SAMPLE.**
