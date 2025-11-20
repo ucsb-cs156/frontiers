@@ -21,6 +21,7 @@ Once you've signed in and connected your GitHub, you'll be taken to the homepage
 <img width="1125" height="600" alt="Screenshot 2025-11-18 at 4 41 23 PM" src="https://github.com/user-attachments/assets/1f61e595-0594-4ca9-9f7d-7447888ed5ae" />
 
 If the status of your course is _Pending_, it means your instructor has not yet completed the course setup on Frontiers. Once the setup is finished, the status will change to a **Join Now** button.
+
 _Pending_ Status:
 <img width="1125" height="600" alt="Screenshot 2025-11-18 at 4 40 39 PM" src="https://github.com/user-attachments/assets/8c701c6f-f87f-4e1e-bd83-e9db8878eae5" />
 
