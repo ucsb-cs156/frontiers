@@ -28,8 +28,8 @@ Once the organization is linked, the **Install GitHub App** button will bew ill 
 <img width="1125" height="600" alt="Screenshot 2025-11-19 at 5 39 25 PM" src="https://github.com/user-attachments/assets/43e68374-5502-490b-8efa-d088d6909af5" />
 
 To uninstall the Frontiers connection from the GitHub organization, click the GitHub settings icon. You will be redireted to GitHub.
-<img width="1512" height="794" alt="Screenshot 2025-11-19 at 5 40 17 PM" src="https://github.com/user-attachments/assets/70377c83-66aa-4320-a6a7-194c8cf6a4e9" />
+<img width="1125" height="600" alt="Screenshot 2025-11-19 at 5 40 17 PM" src="https://github.com/user-attachments/assets/70377c83-66aa-4320-a6a7-194c8cf6a4e9" />
 
 Then, on GitHub, scroll to the bottom of the page and click the **Uninstall**. 
-<img width="1512" height="790" alt="Screenshot 2025-11-19 at 5 42 05 PM" src="https://github.com/user-attachments/assets/a8ba4f6f-242b-41ac-8f2e-ccdb74b6a473" />
+<img width="1125" height="600" alt="Screenshot 2025-11-19 at 5 42 05 PM" src="https://github.com/user-attachments/assets/a8ba4f6f-242b-41ac-8f2e-ccdb74b6a473" />
 
