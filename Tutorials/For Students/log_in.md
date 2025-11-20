@@ -15,7 +15,8 @@ Next, choose the credentials you want use to sign in to Frontiers.
 <img width="1125" height="600" alt="Screenshot 2025-11-18 at 4 39 35 PM" src="https://github.com/user-attachments/assets/45ee22c8-cc6e-420c-aa8f-6fa8b48fae36" />
 
 If this is your first time logging in, you'll be promted to sign in with GitHub. You won't be able to continue using Frontiers' features until your GitHub account is linked.
-<img width="1125" height="600" alt="Screenshot 2025-11-18 at 5 05 06 PM" src="https://github.com/user-attachments/assets/f4c47c8d-5841-4990-94fa-b42dcb2ae609" />
+<img width="1125" height="600" alt="516004860-f4c47c8d-5841-4990-94fa-b42dcb2ae609" src="https://github.com/user-attachments/assets/6fdad599-5751-48ee-a704-6e3b2049354e" />
+
 
 Once you've signed in and connected your GitHub, you'll be taken to the homepage. As a student, you should see a table displaying your current courses on Frontiers. 
 <img width="1125" height="600" alt="Screenshot 2025-11-18 at 4 41 23 PM" src="https://github.com/user-attachments/assets/1f61e595-0594-4ca9-9f7d-7447888ed5ae" />
