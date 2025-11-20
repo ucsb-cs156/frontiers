@@ -20,7 +20,9 @@ To add an individual student, click **Add Individual Student**. A modal will app
 
 <img width="900" height="480" alt="Screenshot 2025-11-19 at 5 46 45 PM" src="https://github.com/user-attachments/assets/dce0237a-aa15-4470-a79d-9b0ec24c08be" />
 
+
 To add students using a roster, click **Upload CSV Roster** and upload your CSV file. For details on the required CSV format, open the  **Help** dropdown in the top-right corner next to the **Log Out** button and select **CSV Upload/Download Formats**.
+
 <img width="1125" height="600" alt="Screenshot 2025-11-19 at 5 51 28 PM" src="https://github.com/user-attachments/assets/41376aa2-3928-4fd7-b16b-7469ed6ca05e" />
 
 **COMING SOON - INTERPRETING CSV ERRORS** 
