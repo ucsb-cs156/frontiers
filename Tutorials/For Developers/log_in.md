@@ -20,7 +20,7 @@ If this is your first time logging in, you'll be promted to sign in with GitHub.
 
 <img width="1125" height="600" alt="516573234-6fdad599-5751-48ee-a704-6e3b2049354e" src="https://github.com/user-attachments/assets/3079abe5-02ca-4de6-be6e-c8c652cdbf27" />
 
-Once you've signed in and connected your GitHub, you'll be taken to the homepage. As an admin, you should see a table displaying your current student and instructor courses (and staff courses, if applicable) on Frontiers. You should also be able to see an **Admin** dropdown on the top bar.
+Once you've signed in and connected your GitHub, you'll be taken to the homepage. As an admin, you should see a table displaying your current student and instructor courses (and staff courses, if applicable) on Frontiers. You should also be able to see an **Admin** dropdown on the top bar. Once you add yourself as an admin or instructor, you can follow the _For Admins_ and _For Instructor_ tutorials to navigate through Frontiers. 
 
 <img width="1125" height="600" alt="Screenshot 2025-11-19 at 6 19 55 PM" src="https://github.com/user-attachments/assets/51f077d7-3855-4112-9cf9-e4866eca1082" />
 
